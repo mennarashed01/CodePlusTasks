@@ -1,0 +1,36 @@
+Task 1: Student Eligibility & Grade System
+Objective:
+
+Build a Console Application that takes a student's details and determines their eligibility and academic grade based on their score and attendance rate.
+
+User Inputs:
+
+Student Name (string)
+
+Exam Score out of 100 (int or double)
+
+Attendance Rate out of 100% (int or double)
+
+Business Logic & Requirements:
+
+Attendance Check (Primary Condition):
+
+If the attendance rate is below 75%, output:
+
+"Status: Failed - Reason: Low Attendance Rate" (Do not evaluate the grade).
+
+Grade Evaluation (If attendance is 75% or higher):
+
+90 – 100: Grade: A (Excellent)
+
+80 – 89: Grade: B (Very Good)
+
+70 – 79: Grade: C (Good)
+
+50 – 69: Grade: D (Pass)
+
+Below 50: Grade: F (Fail)
+
+Use int.Parse() or Convert.ToDouble() to handle input conversions.
+
+Validate the inputs: If the user enters a score or attendance outside the range of 0 - 100, display an error message: "Invalid Input: Values must be between 0 and 100."

@@ -1,0 +1,14 @@
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\bin\Debug\net8.0\StudentGradeSystem.exe
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\bin\Debug\net8.0\StudentGradeSystem.deps.json
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\bin\Debug\net8.0\StudentGradeSystem.runtimeconfig.json
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\bin\Debug\net8.0\StudentGradeSystem.dll
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\bin\Debug\net8.0\StudentGradeSystem.pdb
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.AssemblyInfoInputs.cache
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.AssemblyInfo.cs
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.csproj.CoreCompileInputs.cache
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.dll
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\obj\Debug\net8.0\refint\StudentGradeSystem.dll
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.pdb
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\obj\Debug\net8.0\StudentGradeSystem.genruntimeconfig.cache
+D:\CodePlus Training\Session1\StudentGradeSystem\StudentGradeSystem\obj\Debug\net8.0\ref\StudentGradeSystem.dll
