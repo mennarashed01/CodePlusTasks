@@ -6,7 +6,7 @@ This repository contains my tasks and practical projects completed during the **
 
 1. **C# Fundamentals** — Student Eligibility & Grade System
 2. **OOP & C# Essentials** — Library Management System
-3. **Database & SQL Fundamentals**
+3. **Database & SQL Fundamentals**  - A General Hospital System
 4. **Introduction to ASP.NET Core Web API**
 5. **Entity Framework Core & CRUD API**
 6. **Authentication & Authorization**
